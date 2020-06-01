@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "key": 1,
+    "name": "Cloudmeatball",
+    "image": "/images/cloudmeatball.png",
+    "description": "Just a cloudmeatball",
+    "alt-text": "cloudmeatball"
+  },
+  {
+    "id": 2,
+    "key": 2,
+    "name": "Docker",
+    "image": "/images/docker.png",
+    "decription": "Killed all docker images and started over from scratch",
+    "alt-text": "docker"
+  },
+  {
+    "id": 3,
+    "name": "dumpsterfire",
+    "image": "/images/dumpsterfire.png",
+    "decription": "Put out a dumpster fire",
+    "alt-text": "dumpsterfire"
+  },
+  {
+    "id": 4,
+    "name": "localenv",
+    "image": "/images/localenv.png",
+    "decription": "Got all 5 repos working locally",
+    "alt-text": "localenv"
+  },
+  {
+    "id": 5,
+    "name": "magic",
+    "image": "/images/magic.png",
+    "decription": "Random magic badge",
+    "alt-text": "magic"
+  },
+  {
+    "id": 6,
+    "name": "mema",
+    "image": "/images/mema.png",
+    "decription": "Went into Mema and didn't get lost",
+    "alt-text": "mema"
+  },
+  {
+    "id": 7,
+    "name": "nap",
+    "image": "/images/nap.png",
+    "decription": "Solved a problem by taking a nap",
+    "alt-text": "nap"
+  },
+  {
+    "id": 8,
+    "name": "onecharacter",
+    "image": "/images/onecharacter.png",
+    "decription": "Fixed codebase by changing literally one character",
+    "alt-text": "onecharacter"
+  },
+  {
+    "id": 9,
+    "name": "paired",
+    "image": "/images/paired.png",
+    "decription": "Paired programming, y'all!",
+    "alt-text": "paired"
+  },
+  {
+    "id": 10,
+    "name": "points",
+    "image": "/images/points.png",
+    "decription": "Accurately estimated story points",
+    "alt-text": "points"
+  },
+  {
+    "id": 11,
+    "name": "QApingpong",
+    "image": "/images/qapingpong.png",
+    "decription": "Had a story complete after ping-ponging with QA",
+    "alt-text": "qapingpong"
+  },
+  {
+    "id": 12,
+    "name": "readme",
+    "image": "/images/readme.png",
+    "decription": "Updated a readme file so people can actually use it",
+    "alt-text": "readme"
+  },
+  {
+    "id": 13,
+    "name": "releasecaptain",
+    "image": "/images/releasecaptain.png",
+    "decription": "Played release captain",
+    "alt-text": "releasecaptain"
+  },
+  {
+    "id": 14,
+    "name": "scrum",
+    "image": "/images/scrum.png",
+    "decription": "Played Scrum Master",
+    "alt-text": "scrum"
+  },
+  {
+    "id": 15,
+    "name": "ssh",
+    "image": "/images/ssh.png",
+    "decription": "Use ssh to gain access to a server and even restarted it",
+    "alt-text": "ssh"
+  },
+  {
+    "id": 16,
+    "name": "stroopwaffle",
+    "image": "/images/stroopwaffle.png",
+    "decription": "We all need more stroopwaffles",
+    "alt-text": "stroopwaffle"
+  }
+]
