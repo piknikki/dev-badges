@@ -11,7 +11,6 @@ function BadgeCard(props) {
                     alt={props.name}
                     src={props.image}
                 />
-
             </div>
             <h4>{props.description}</h4>
         </div>

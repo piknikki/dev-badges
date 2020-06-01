@@ -24,7 +24,10 @@ class App extends Component {
                     image={badge.image}
                     description={badge.name}
                 />
+                // <h4>{badge.description}</h4>
+
             ))}
+
             <Footer />
           </Wrapper>
         </div>
