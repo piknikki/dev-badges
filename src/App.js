@@ -22,7 +22,7 @@ class App extends Component {
                     id={badge.id}
                     name={badge.name}
                     image={badge.image}
-                    description={badge.name}
+                    description={badge.description}
                 />
                 // <h4>{badge.description}</h4>
 
