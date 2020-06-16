@@ -10,4 +10,4 @@ These are badges for Sloths
 * React (using create-react-app)
 
 # Link to live app
-
+https://dev-badges.herokuapp.com/
