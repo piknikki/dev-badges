@@ -112,5 +112,26 @@
     "image": "/images/stroopwaffle.png",
     "description": "We all need more stroopwaffles",
     "alt-text": "stroopwaffle"
+  },
+  {
+    "id": 17,
+    "name": "biscuit",
+    "image": "/images/biscuit_badge.png",
+    "description": "Biscuit team badge",
+    "alt-text": "biscuit"
+  },
+  {
+    "id": 18,
+    "name": "owl",
+    "image": "/images/owl_badge.png",
+    "description": "owl team badge",
+    "alt-text": "owl"
+  },
+  {
+    "id": 19,
+    "name": "sloth",
+    "image": "/images/sloth_badge.png",
+    "description": "sloth team badge",
+    "alt-text": "sloth"
   }
 ]
